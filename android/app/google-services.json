@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "187221253897",
+    "project_id": "gestaoos-40216",
+    "storage_bucket": "gestaoos-40216.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187221253897:android:de200b49e167ca7a89fdd8",
+        "android_client_info": {
+          "package_name": "com.example.gestao_loja"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-YRhdXuHqqOeI-h7m0tJS0U0ZUt2_IVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
